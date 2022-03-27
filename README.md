@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sufian499
-- 👀 I’m interested in Python and hacking
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in Cybersecurity, Python and Bash scripting.
+- 🌱 I’m currently learning Python, Systems and Cybersecurity
 
 <!---
 Sufian499/Sufian499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
